@@ -1,1 +1,20 @@
 /DerivedDataCache
+# 忽略特定的系统文件，例如macOS的.DS_Store
+.DS_Store
+
+# 忽略特定的虚幻引擎临时文件或日志文件
+*.log
+*.pdb
+*.opensdf
+*.sdf
+*.opendb
+
+# 如果您的项目中包含Visual Studio解决方案文件，也可能需要忽略以下文件
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.cache
+*.vsp
+*.vspx
+*.db
