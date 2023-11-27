@@ -1,4 +1,12 @@
 /DerivedDataCache
+
+# Outside resources
+/Content/FXVarietyPack
+/Content/Hour_of_Code
+/Content/Learningkit_Games
+/Content/Learningkit_Robots
+/Content/BlockGame
+
 # 忽略特定的系统文件，例如macOS的.DS_Store
 .DS_Store
 
